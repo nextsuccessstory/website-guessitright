@@ -1,0 +1,37 @@
+Domain and hosting at GoDaddy.com
+
+
+Domain:
+
+username: 18439067
+password: volvo
+
+
+Hosting:
+
+username: norcalvolvo1
+password: Volvo1234 (notice uppercase V)
+
+
+Database:
+
+username: volvoxc90
+password: Volvo1234 (notice uppercase V)
+
+
+E-mail: (customerservice@guessitright.com)
+
+username: customerservice@guessitright.com
+password: volvo
+
+
+
+
+09204527539
+
+CREATE TABLE `users` (
+`id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`email` VARCHAR( 255 ) NOT NULL ,
+`zipcode` VARCHAR( 10 ) NOT NULL ,
+`created` DATETIME NOT NULL 
+) ENGINE = MYISAM ;
